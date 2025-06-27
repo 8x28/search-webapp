@@ -1,0 +1,4 @@
+streamlit
+serpapi
+snscrape
+python-dotenv
